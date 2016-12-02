@@ -16,4 +16,5 @@ with open('roll_list.csv') as f:
             with open("{0}.pdf".format(row[0]),'w+') as pdf:
                 pdf.write(r.content)
 
+s.get(urls['LOGOUT_URL'])
 s.close()

@@ -8,7 +8,8 @@ urls = {
     'SECURITYQ_URL' : 'https://erp.iitkgp.ernet.in/SSOAdministration/getSecurityQues.htm',
     'TP_URL' : 'https://erp.iitkgp.ernet.in/TrainingPlacementSSO/TPStudent.jsp',
     'SSO_URL' : 'https://erp.iitkgp.ernet.in/IIT_ERP3/showmenu.htm',
-    'CV_URL' : "https://erp.iitkgp.ernet.in/TrainingPlacementSSO/AdmFilePDF.htm?path=/DATA/ARCHIVE/TRAINGANDPLACEMNT/STUDENT/{0}/RESUME/1.pdf"
+    'CV_URL' : "https://erp.iitkgp.ernet.in/TrainingPlacementSSO/AdmFilePDF.htm?path=/DATA/ARCHIVE/TRAINGANDPLACEMNT/STUDENT/{0}/RESUME/1.pdf",
+    'LOGOUT_URL' : 'https://erp.iitkgp.ernet.in/IIT_ERP3/logout.htm'
 }
 
 # get credentials from json
